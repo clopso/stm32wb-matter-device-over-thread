@@ -84,8 +84,8 @@
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/Legacy"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/library"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/include"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/library"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/include"/>
 									<listOptionValue builtIn="false" value="${MATTER}/platform/stm32"/>
 									<listOptionValue builtIn="false" value="${MATTER}/platform"/>
 								</option>
@@ -147,8 +147,8 @@
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/BSP/Components/s25fl128s"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/Legacy"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/library"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/include"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/library"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/include"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/nlassert/include"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/nlio/include"/>
 									<listOptionValue builtIn="false" value="${MATTER}/cluster/lighting-app"/>
@@ -354,8 +354,8 @@
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/Legacy"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/library"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/include"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/library"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/include"/>
 									<listOptionValue builtIn="false" value="${MATTER}/platform/stm32"/>
 									<listOptionValue builtIn="false" value="${MATTER}/platform"/>
 									<listOptionValue builtIn="false" value="../../STM32_WPAN/App"/>
@@ -444,8 +444,8 @@
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/BSP/Components/s25fl128s"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/Legacy"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/library"/>
-									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedTLS/include"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/library"/>
+									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/mbedtls/include"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/nlassert/include"/>
 									<listOptionValue builtIn="false" value="../../../../../../../Middlewares/Third_Party/nlio/include"/>
 									<listOptionValue builtIn="false" value="${MATTER}/cluster/lighting-app"/>
